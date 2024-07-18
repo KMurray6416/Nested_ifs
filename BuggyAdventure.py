@@ -9,6 +9,9 @@ if place == "forest":
         print("You found a bird's nest!")
     else:
         print("You found a boat!")
+        
+    # Task 2
+
 elif place == "cave":
     if action2 == "light a torch":
         print("Look at all that shiny treasure!")
